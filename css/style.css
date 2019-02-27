@@ -1,0 +1,20 @@
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 5rem;
+    margin: 4rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.fill{
+    background: -webkit-linear-gradient(left, #ff1053 0%, #ff4f0f 100%);
+    background: linear-gradient(to right, #ff1053 0%, #ff4f0f 100%);
+
+    background-image: url("../images/bg.gif"); 
+    background-size: 12%;
+
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+}
